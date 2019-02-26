@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    <h1 style="color: orange; font-size: 280px";> ABROAD </h1>
-</body>
-</html>
+@extends('layout')
+
+@section('title', 'About Us')
+
+@section('content')
+
+<h1 href="/contact" style="color: gold;"> About Us </h1>
+<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio possimus vel et, aut rerum ratione, reprehenderit dignissimos mollitia, reiciendis exercitationem quod quibusdam nulla similique tempora dolorum error! Laborum, quae praesentium?</p>
+@endsection
+
