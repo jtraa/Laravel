@@ -26,10 +26,9 @@
 
          <div class="field">
                 <div class="control">
-                    <button style= "float:right;" type="submit" class="button is-success button is-outlined">Create Product</button>
+                    <button style= "float:right;" type="submit" class="button is-dark button is-outlined">Create Product</button>
                 </div>
             </div>
-
     </form></center>
     <br><br>
         

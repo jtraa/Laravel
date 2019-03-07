@@ -34,7 +34,7 @@
             <div> <a href="/projects/create" class="navbar-item">
                 Create Product
             </a></div>
-        <div> <a href="/projects/1/edit" class="navbar-item">
+        <div> <a href="/projects/20/edit" class="navbar-item">
                 Edit Product
         </a></div>
           </div>
