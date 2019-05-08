@@ -6,7 +6,7 @@
 
 <center><h1 style="font-size: 80px;"> Update Product <h1></center>
 
-    <form method="POST" action="/projects/{{$project ->id}}">
+   <form method="POST" action="/projects/{{$project ->id}}">
             {{ csrf_field() }}
         <div class="field">
             <label class="label" for="title">Title</label>

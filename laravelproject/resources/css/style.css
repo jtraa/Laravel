@@ -3,6 +3,10 @@
  /* display:flex; */
 }
 
+body, html {
+    overflow: hidden;
+}
+
 #products {
     display: flex;
     box-sizing: border-box;

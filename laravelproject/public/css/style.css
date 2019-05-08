@@ -1,0 +1,12 @@
+#products{
+ width: 30%;
+ display: flex;
+ flex-wrap: nowrap;
+ flex-direction: column;
+ justify-content: center;
+}
+
+.card {
+
+}
+
